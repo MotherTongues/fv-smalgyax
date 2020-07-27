@@ -1,0 +1,40 @@
+{
+  "file_type": "json",
+  "name": "phrases",
+  "display": "word",
+  "compare": "compare_form",
+  "sorting": "sort_form",
+  "transducers": [
+    {
+      "source": "word",
+      "target": "sort_form",
+      "functions": ["lambda x: x.lower()"]
+    }
+  ],
+  "targets": {
+    "entryID": "entryID",
+    "definition": "definition",
+    "word": "word",
+    "audio": {
+      "listof": "audio",
+      "value": {
+        "speaker": "description",
+        "filename": "filename"
+      }
+    },
+    "img": "img[0].filename",
+    "theme": "theme[0].parent_category",
+    "secondary_theme": "theme[0].category",
+    "optional": [
+      {
+        "Pronunciation": "optional.Pronunciation"
+      },
+      {
+        "Reference": "optional.Reference"
+      },
+      {
+        "Part of Speech": "optional.'Part Of Speech'"
+      }
+    ]
+  }
+}

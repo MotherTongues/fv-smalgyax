@@ -1,0 +1,42 @@
+[
+  {
+    "entryID": "081b754c-2931-4f69-a444-9f4e9ed65367",
+    "word": "agu dihiida?",
+    "definition": "What did they say?",
+    "audio": [
+      {
+        "filename": "https://fv-app-data.s3.ca-central-1.amazonaws.com/nisga/6f/6f411819-c12d-4342-9089-59ca9b39fca4",
+        "mime-type": "audio/wav",
+        "description": "Sigidimnaḵ’ Diiks, comes from the Lax̱sgiik (Eagle) Clan, from the village of Lax̱g̱alts’ap",
+        "title": "Elsie Campbell"
+      }
+    ],
+    "optional": {},
+    "theme": [
+      {
+        "parent_category": "Questions",
+        "category": null
+      }
+    ]
+  },
+  {
+    "entryID": "6ec18c74-d2fd-42cf-8840-d23dd7b998af",
+    "word": "agu diya?",
+    "definition": "What did he\\she say?",
+    "audio": [
+      {
+        "filename": "https://fv-app-data.s3.ca-central-1.amazonaws.com/nisga/55/55a69b30-9258-4485-9678-0fd4c80c2279",
+        "mime-type": "audio/wav",
+        "description": "Sigidimnaḵ’ Diiks, comes from the Lax̱sgiik (Eagle) Clan, from the village of Lax̱g̱alts’ap",
+        "title": "Elsie Campbell"
+      }
+    ],
+    "optional": {},
+    "theme": [
+      {
+        "parent_category": "Questions",
+        "category": null
+      }
+    ]
+  }
+]

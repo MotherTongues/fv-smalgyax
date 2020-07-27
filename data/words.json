@@ -1,0 +1,69 @@
+[
+  {
+    "entryID": "2ad8c28c-e2eb-4464-b536-d08afa2fd3a0",
+    "word": "a",
+    "definition": "Quiet!",
+    "audio": [
+      {
+        "filename": "https://fv-app-data.s3.ca-central-1.amazonaws.com/nisga/3d/3d7692ab-1c79-42e8-9bdd-beaef79bae3c",
+        "mime-type": "audio/mpeg",
+        "speaker": "Verna Williams",
+        "description": "New Aiyansh, BC",
+        "title": "a.mp3"
+      }
+    ],
+    "img": [
+      {
+        "filename": "https://fv-app-data.s3.ca-central-1.amazonaws.com/nisga/06/0671c4d2-5989-41e1-ba88-28daaa7c7b42",
+        "mime-type": "image/jpeg",
+        "description": null,
+        "title": "Yvette_Mcmillan.JPG"
+      }
+    ],
+    "optional": {
+      "Pronunciation": "a",
+      "Reference": "New Aiyansh, BC",
+      "Part of Speech": "interjection",
+      "Cultural Note": "plural: asim̓"
+    },
+    "theme": [
+      {
+        "parent_category": "Events",
+        "category": "Thinking/Feeling"
+      }
+    ]
+  },
+  {
+    "entryID": "78515d8c-98e8-48c4-936d-ed43f816945a",
+    "word": "a",
+    "definition": "at/to",
+    "audio": [
+      {
+        "filename": "https://fv-app-data.s3.ca-central-1.amazonaws.com/nisga/22/2256c777-0b40-4d88-9938-dd351cf78f87",
+        "mime-type": "audio/mpeg",
+        "speaker": "Verna Williams",
+        "description": "New Aiyansh, BC",
+        "title": "a2.mp3"
+      }
+    ],
+    "img": [
+      {
+        "filename": "https://fv-app-data.s3.ca-central-1.amazonaws.com/nisga/cc/ccfe35c6-2292-469a-9631-227344c0a888",
+        "mime-type": "image/jpeg",
+        "description": "Gifting a pint of grease fresh from the pot",
+        "title": "photo courtesy of WWNI staff"
+      }
+    ],
+    "optional": {
+      "Pronunciation": "a",
+      "Reference": "New Aiyansh, BC",
+      "Part of Speech": "preposition"
+    },
+    "theme": [
+      {
+        "parent_category": "Prepositions",
+        "category": null
+      }
+    ]
+  }
+]
