@@ -1,6 +1,6 @@
 {
   "file_type": "json",
-  "name": "words",
+  "name": "phrases",
   "display": "word",
   "compare": "compare_form",
   "sorting": "sort_form",

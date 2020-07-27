@@ -1,14 +1,33 @@
 {
-    "config": {
-        "L1": "Danish",
-        "L2": "English",
-        "optional_field_title": "Optional Info",
-        "alphabet": "../alphabet.csv"
-    },
-    "data": [
-        {
-            "manifest": "./manifest.json",
-            "resource": "../data/data.csv"
-        }
+  "config": {
+    "L1": "Sm'algya̱x",
+    "L2": "English",
+    "optional_field_title": "Optional Information",
+    "alphabet": "../alphabet.csv",
+    "credits": [
+      {
+        "role": "funding",
+        "name": "FPCC"
+      },
+      {
+        "role": "developers",
+        "name": "Aidan Pine"
+      }
     ]
+  },
+  "data": [
+    {
+      "manifest": "./manifest.json",
+      "resource": "../data/words.json"
+    },
+    {
+      "manifest": "./phrase_manifest.json",
+      "resource": "../data/phrases.json"
+    }
+  ],
+  "adhoc_vars": [
+    {
+      "theme_hierarchy": true
+    }
+  ]
 }
